@@ -1,1 +1,1 @@
-__This file is mandatory in all Alx school projects__
+__This file is very important in all Alx school projects__
